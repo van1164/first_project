@@ -1,8 +1,9 @@
 import 'package:flutter/material.dart';
 import 'first.dart';
 import 'second.dart';
+import 'cupertinoMain.dart';
 void main() {
-  runApp(MyApp());
+  runApp(CupertinoMain());
 }
 
 class MyApp extends StatefulWidget {
